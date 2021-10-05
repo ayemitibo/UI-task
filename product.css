@@ -2,10 +2,15 @@
   padding: 0px;
   margin: 0px;
   overflow-x: hidden;
+  font-family: 'Montserrat';
 }
 .container {
   max-width: auto;
 }
+
+
+
+/* @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap'); */
 
 /*
  * Custom translucent site header
@@ -105,6 +110,7 @@
     text-align: center;
     height: 80px;
     padding: 3px;
+
  }
  .header-biz p{
   font-size: 9px;
@@ -115,6 +121,7 @@
   font-size: 29px;
   line-height: 35px;
   margin: 0px;
+  font-weight: 900;
  }
 .height-auto{
     width: 60px;
@@ -160,6 +167,7 @@
     position: absolute;
     top: 30%;
     right: 6%;
+    
 
  }
 .banner .text{
